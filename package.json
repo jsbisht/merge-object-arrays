@@ -1,0 +1,23 @@
+{
+  "name": "merge-object-arrays",
+  "version": "1.0.0",
+  "description": "Merge two object arrays based on a key",
+  "main": "code/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbisht/merge-object-arrays.git"
+  },
+  "keywords": ["array", "javascript", "merge", "key", "common", "join", "concat"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsbisht/merge-object-arrays/issues"
+  },
+  "homepage": "https://github.com/jsbisht/merge-object-arrays#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
